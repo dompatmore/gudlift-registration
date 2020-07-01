@@ -39,11 +39,7 @@
     The app is powered by [JSON files](https://www.tutorialspoint.com/json/json_quick_guide.htm). This is to get around having a DB until we actually need one. The main ones are:
      
     * competitions.json - list of competitions
-    * points.json - points for purchasing places
-    * secretaries.json - emails of club secretaries
+    * clubs.json - list of clubs with relevant information
 
-5. Testing
-
-    All tests are located in the test directory.  To run them, type <code> python -m unittest discover -s tests/</code>. All the files that start with <code>test</code> will be executed
 
 
