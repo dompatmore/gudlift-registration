@@ -39,7 +39,12 @@
     The app is powered by [JSON files](https://www.tutorialspoint.com/json/json_quick_guide.htm). This is to get around having a DB until we actually need one. The main ones are:
      
     * competitions.json - list of competitions
-    * clubs.json - list of clubs with relevant information
+    * clubs.json - list of clubs with relevant information. You can look here to see what email addresses the app will accept for login.
 
+5. Testing
 
+    You are free to use whatever testing framework you like-the main thing is that you can show what tests you are using.
+
+    We also like to show how well we're testing, so we there's a module called 
+    [coverage](https://coverage.readthedocs.io/en/coverage-5.1/) you should add to  your project.
 
